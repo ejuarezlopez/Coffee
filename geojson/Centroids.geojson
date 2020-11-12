@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "Centroids",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 3, "Name": "Traditional Atitlan", "Area": 358153011, "AreaSQKM": 358 }, "geometry": { "type": "Point", "coordinates": [ -91.205005871713595, 14.655016137699279 ] } },
+{ "type": "Feature", "properties": { "id": 7, "Name": "New Oriente", "Area": 374911289, "AreaSQKM": 375 }, "geometry": { "type": "Point", "coordinates": [ -89.349780951799517, 14.679557861220516 ] } },
+{ "type": "Feature", "properties": { "id": 8, "Name": "Rainforest Coban", "Area": 509042795, "AreaSQKM": 509 }, "geometry": { "type": "Point", "coordinates": [ -90.436005037447217, 15.441654891501319 ] } },
+{ "type": "Feature", "properties": { "id": 1, "Name": "Highland Huehuetenango", "Area": 876624664, "AreaSQKM": 877 }, "geometry": { "type": "Point", "coordinates": [ -91.79503745673324, 15.581560873267348 ] } },
+{ "type": "Feature", "properties": { "id": 2, "Name": "Volcanic San Marcos", "Area": 705995801, "AreaSQKM": 706 }, "geometry": { "type": "Point", "coordinates": [ -91.823623656588126, 14.897112228480967 ] } },
+{ "type": "Feature", "properties": { "id": 5, "Name": "Antigua Coffee", "Area": 249493897, "AreaSQKM": 249 }, "geometry": { "type": "Point", "coordinates": [ -90.769272731624994, 14.544089315224216 ] } },
+{ "type": "Feature", "properties": { "id": 4, "Name": "Acatenango Valley", "Area": 132060301, "AreaSQKM": 132 }, "geometry": { "type": "Point", "coordinates": [ -90.964929956071458, 14.555777149187522 ] } },
+{ "type": "Feature", "properties": { "id": 6, "Name": "Fraijanes Plateau", "Area": 680238957, "AreaSQKM": 680 }, "geometry": { "type": "Point", "coordinates": [ -90.521257386843374, 14.448376201444823 ] } }
+]
+}
